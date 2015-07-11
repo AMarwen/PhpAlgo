@@ -1,6 +1,6 @@
 {
     "name": "phpalgo/phpalgo",
-    "description": "a library that contain a set of functions that will do a Complex things for you and return a simple to understand result. just with a simple function Call",
+    "description": "a library that contain a set of functions that will do a Complex things for you and return a simple to understand result. just with a simple function Call.",
     "license": "MIT",
     "keywords": ["algorithm","helpers","phpalgo","functions"],
     "authors": [

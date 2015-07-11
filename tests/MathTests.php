@@ -7,12 +7,12 @@ class MathTests extends PHPUnit_Framework_TestCase {
     //2-create an object of the Class that you want to MathTests
      
     //3-MathTests object method
-    $this->assertTrue(   PhpAlgo\Math\isEqFraction( array(1,2/4,20/40)) );
+    $this->assertTrue(   PhpAlgo\Math\isEqFraction( array(1/3,2/6)) );
  
   }
  
   public function testreciprocal(){
-       $this->assertEquals( "3/4",PhpAlgo\Math\reciprocal("12/7") );
+       $this->assertEquals( "7/12",PhpAlgo\Math\reciprocal("12/7") );
   }
   
   

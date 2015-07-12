@@ -7,7 +7,7 @@ class ArrayTests extends PHPUnit_Framework_TestCase {
     //2-create an object of the Class that you want to MathTests
      
     //3-MathTests object method
-    $this->assertTrue(   PhpAlgo\Arr\isSameVal(array(1,1,1,5)) );
+    $this->assertTrue(   PhpAlgo\Arr\isSameVal(array(1,1,1)) );
  
   }
   

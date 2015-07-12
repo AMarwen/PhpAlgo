@@ -12,7 +12,7 @@ class MathTests extends PHPUnit_Framework_TestCase {
   }
  
   public function testreciprocal(){
-       $this->assertEquals( "7/1",PhpAlgo\Math\reciprocal("12/7") );
+       $this->assertEquals( "7/12",PhpAlgo\Math\reciprocal("12/7") );
   }
   
   

@@ -1,3 +1,4 @@
+
 # String
 ### 1. remove all spaces from a string
 **Syntax :**

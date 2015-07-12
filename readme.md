@@ -3,6 +3,8 @@
 
 # String
 ### 1. remove all spaces from a string
+
+[![Join the chat at https://gitter.im/AMarwen/PhpAlgo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AMarwen/PhpAlgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Syntax :**
  ```php
   string  PhpAlgo\Str\removeallSpaces(string $str);

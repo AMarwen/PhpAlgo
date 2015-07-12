@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AMarwen/PhpAlgo.svg?branch=master)](https://travis-ci.org/AMarwen/PhpAlgo)
+-----------------------------------------------------------------------------------------------------------------
 
 # String
 ### 1. remove all spaces from a string

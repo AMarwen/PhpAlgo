@@ -7,7 +7,8 @@ php has a lot of built in functions but sometimes we need a function that did a 
 if you search for a function that do a specific thing for you , you may found it .here
 
  for ex axample we suppose that we we want to highlight a specific string in syntax to do so we can call a simple function which will do that for us instead of losing our time writing one from scratch : 
-1. create the highlight Class
+
+1. create the highlight Class :
 ```
 .highlightClass{
 background-color: yellow;

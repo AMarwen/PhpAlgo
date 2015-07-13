@@ -13,5 +13,5 @@ in the Example below the function will search for each instance of `php` in `php
 ```php
 echo PhpAlgo\CSS\highlightMatches("php","php and the php World, yahoo with php .",'highlightClass');}
 ```
-# Output :
+**Output :**
 ![phpAlgo_1](http://imagizer.imageshack.us/v2/337x52q90/901/wrSJkq.jpg)

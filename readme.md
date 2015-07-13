@@ -7,17 +7,22 @@ php has a lot of built in functions but sometimes we need a function that did a 
 if you search for a function that do a specific thing for you , you may found it .here
 
  for ex axample we suppose that we we want to highlight a specific string in syntax to do so we can call a simple function which will do that for us instead of losing our time writing one from scratch : 
-
+<ol>
+<li>
 1. create the highlight Class :
 ```
 .highlightClass{
 background-color: yellow;
 }
 ```
+</li>
+<li>
 2. hilight matched string with our hilight Class in this Case hilight all php occurrences in string with the "highlightClass" class :
-3. f
 ```php
 echo PhpAlgo\CSS\highlightMatches("php","php and the php World, yahoo with php .",'highlightClass');}
 ```
+</li>
+</ol>
 # Output :
 ![phpAlgo_1](http://imagizer.imageshack.us/v2/337x52q90/901/wrSJkq.jpg)
+

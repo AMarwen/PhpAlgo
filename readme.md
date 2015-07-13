@@ -9,11 +9,12 @@ if you search for a function that do a specific thing for you , you may found it
  for ex axample we suppose that we we want to highlight a specific string in syntax to do so we can call a simple function which will do that for us instead of losing our time writing one from scratch : 
 
 1. create the highlight Class :
-```
+```css
 .highlightClass{
 background-color: yellow;
 }
 ```
+
 2. hilight matched string with our hilight Class in this Case hilight all php occurrences in string with the "highlightClass" class :
 ```php
 echo PhpAlgo\CSS\highlightMatches("php","php and the php World, yahoo with php .",'highlightClass');}

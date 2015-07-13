@@ -15,6 +15,7 @@ background-color: yellow;
 }
 ```
 2. hilight matched string with our hilight Class in this Case hilight all php occurrences in string with the "highlightClass" class :
+3. f
 ```php
 echo PhpAlgo\CSS\highlightMatches("php","php and the php World, yahoo with php .",'highlightClass');}
 ```
